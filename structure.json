@@ -1,10 +1,42 @@
-{
-	"dir1" : {
-	 	"dir2": {
-	 		"file1": "continut1", 
-			"file2": "continut2"
-		},
-		"file3": "continut3"
-	}, 
-	"file4": "continut4"
-}
+ {
+            "documents": {
+                "personal": {
+                    "file1.txt": "Personal document 1",
+                    "file2.txt": "Personal document 2"
+                },
+                "school": {
+                    "projects": {
+                        "project1": {
+                            "file3.txt": "Content1 for project 1.",
+                            "file4.txt": "Content2 for project 1."
+                        },
+                        "project2": {
+                            "file5.txt": "Content1 for project 2.",
+                            "file6.txt": "Content2 for project 2."
+                        }
+                    },
+                    "homework": {
+                        "file7.txt": "Homework1.",
+                        "file8.txt": "Homework2."
+                    }
+                },
+		"file_document.txt": ".txt file in documents"
+            },
+            "images": {
+                "old": {
+                    "2010": {
+                        "photo1.jpg": "C:\\Users\\Public\\Pictures\\wallpapers\\jay-mantri-TFyi0QOx08c-unsplash.jpg",
+                        "photo2.jpg": "C:\\Users\\Public\\Pictures\\wallpapers\\jay-mantri-TFyi0QOx08c-unsplash.jpg"
+                    },
+                    "2015": {
+                        "photo3.jpg": "C:\\Users\\Public\\Pictures\\wallpapers\\jay-mantri-TFyi0QOx08c-unsplash.jpg",
+                        "photo4.jpg": "C:\\Users\\Public\\Pictures\\wallpapers\\jay-mantri-TFyi0QOx08c-unsplash.jpg"
+                    }
+                },
+                "new": {
+                    "photo5.jpg": "C:\\Users\\Public\\Pictures\\wallpapers\\jay-mantri-TFyi0QOx08c-unsplash.jpg",
+                    "photo6.jpg": "C:\\Users\\Public\\Pictures\\wallpapers\\jay-mantri-TFyi0QOx08c-unsplash.jpg"
+                }
+            }
+        }
+
